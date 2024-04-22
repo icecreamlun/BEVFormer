@@ -1,0 +1,12 @@
+.cache/
+.config/
+.dotnet/
+.vscode-server/
+.local/
+.bash_history
+.bash_logout
+.bashrc
+.bashrc-anaconda3.bak
+.profile
+.viminfo
+.wget-hsts
